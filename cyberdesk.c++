@@ -28,7 +28,7 @@
 
 #define WIFI_PASS "12345678"
 
-#define GEMINI_API_KEY "Gemini.3.2"
+#define GEMINI_API_KEY "AQ.Ab8RN6KDcXfo1qanooXXLNjV8Mu_tudyq_7A4PDIoz0tiQOJCQ"
 
 
 
