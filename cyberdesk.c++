@@ -940,7 +940,7 @@ bodyLen = serializeJson(req, g_req, sizeof(g_req));
 
 if (bodyLen == 0 || bodyLen >= sizeof(g_req) - 1) {
 
-snprintf(g_resp, RESP_MAX, "[ERRO] Pergunta grande demais para o buffer.");
+snprintf(g_resp, RESP_MAX, "[ERRO] Pergunta grande demais para os tokens.");
 
 return false;
 
